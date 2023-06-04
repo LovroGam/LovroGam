@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LovroGam
+- 👋 Hi, I’m @Lovro Gamulin
 - 👀 I’m interested in learning new programming skills and finding a job
 - 🌱 I’m currently learning PHP, MySQL and Laravel
 - 💞️ I’m looking to collaborate on any job
