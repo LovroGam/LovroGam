@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lovro Gamulin
 - 👀 I’m interested in learning new programming skills and finding a job
 - 🌱 I finished education in Backend development with PHP, MySQL and Laravel
-- 💞️ I’m looking to collaborate on any project that can help me learn programming
+- 💞️ I’m looking to collaborate on any project that can help me further develop my skillset
 - 📫 How to reach me lovrog0@gmail.com
 
 <!---
